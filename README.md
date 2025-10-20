@@ -1,4 +1,4 @@
-# INVERSE-OF-A-MATRIX
+# EX2-INVERSE-OF-A-MATRIX
 ## AIM:
 To write a python program to find the inverse of a matrix
 ## EQUIPMENT'S REQUIRED:
